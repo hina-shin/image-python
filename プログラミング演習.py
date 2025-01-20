@@ -1,5 +1,5 @@
 print("画像分類")
-print("Let's Play")
+print("リポジトリにあるファイルを事前にダウンロードしてください。")
 import os
 import numpy as np
 import cv2
