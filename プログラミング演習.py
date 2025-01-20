@@ -1,5 +1,5 @@
 print("画像分類")
-print("Let's Pray")
+print("Let's Play")
 import os
 import numpy as np
 import cv2
